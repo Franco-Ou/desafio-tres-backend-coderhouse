@@ -1,0 +1,17 @@
+[
+    {
+      "title": "Compás",
+      "price": 80,
+      "id": 1  
+    },
+    {
+      "title": "Lapicera",
+      "price": 40,
+      "id": 2
+    },
+    {
+      "title": "Regla",
+      "price": 50,
+      "id": 3  
+    }
+]
